@@ -1,0 +1,12 @@
+Started by user [8mha:////4IEfTFdD5lQMAjmi3MdCYHlyIkFAbpx4wwN8zmbu85xyAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYe/dLi1CL9xJKM3MxsAIRtp5nBAAAA[0mATHMIK A M
+Running as SYSTEM
+Building in workspace D:\SEM_5\Devops\jenkins\JENKINS_HOME\workspace\task2
+[task2] $ cmd /c call C:\Users\ATHMIY~1\AppData\Local\Temp\jenkins9252755632516368507.bat
+
+D:\SEM_5\Devops\jenkins\JENKINS_HOME\workspace\task2>java -version 
+java version "19" 2022-09-20
+Java(TM) SE Runtime Environment (build 19+36-2238)
+Java HotSpot(TM) 64-Bit Server VM (build 19+36-2238, mixed mode, sharing)
+
+D:\SEM_5\Devops\jenkins\JENKINS_HOME\workspace\task2>exit 0 
+Finished: SUCCESS

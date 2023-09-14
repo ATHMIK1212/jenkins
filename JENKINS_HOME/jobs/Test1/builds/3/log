@@ -1,0 +1,10 @@
+Started by user [8mha:////4IEfTFdD5lQMAjmi3MdCYHlyIkFAbpx4wwN8zmbu85xyAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYe/dLi1CL9xJKM3MxsAIRtp5nBAAAA[0mATHMIK A M
+Running as SYSTEM
+Building in workspace D:\SEM_5\Devops\jenkins\JENKINS_HOME\workspace\Test1
+[Test1] $ cmd /c call C:\Users\ATHMIY~1\AppData\Local\Temp\jenkins9628844781075642125.bat
+
+D:\SEM_5\Devops\jenkins\JENKINS_HOME\workspace\Test1>echo BVOC (Software and app development) 
+BVOC (Software and app development)
+
+D:\SEM_5\Devops\jenkins\JENKINS_HOME\workspace\Test1>exit 0 
+Finished: SUCCESS
